@@ -130,7 +130,7 @@ ul {
   position: relative;
 }
 .section-one {
-  background-image: url(/image/background.jpeg);
+  background-image: url(./image/background.jpeg);
   background-size: cover;
   background-position: center center;
 }
